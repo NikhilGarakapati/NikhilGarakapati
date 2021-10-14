@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=NikhilGarakapati&style=flat-square&color=grey)
 
 - 🔭 I’m currently working on #100daysofSQL challenge.
 - 🌱 I’m currently learning data-analysis, Advance SQL, Tableau.
